@@ -1,6 +1,9 @@
 # react-native-round-flags
 Fun with flags (in React Native)!
 
+### Example
+![Round Icons demonstration](example.png)
+
 ### Usage
 ```javascript
 import Flag from 'react-native-round-flags';
