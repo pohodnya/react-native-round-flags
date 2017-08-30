@@ -1,6 +1,6 @@
 {
   "name": "react-native-round-flags",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": ":flag: Fun with round flags!",
   "main": "index.js",
   "scripts": {
