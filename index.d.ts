@@ -6,5 +6,7 @@ declare module "react-native-round-flags" {
     style?: any;
   }
 
-  export const Flag: (props: FlagProps) => React.SFC<FlagProps>;
+  const Flag: React.SFC<FlagProps>;
+
+  export default Flag;
 }
